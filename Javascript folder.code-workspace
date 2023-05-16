@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Furniture"
+		},
+		{
+			"path": "../URL shortener"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "URL shortener",
+		"git.ignoreLimitWarning": true
+	}
+}
